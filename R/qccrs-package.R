@@ -1,0 +1,27 @@
+#' @name qccrs
+#' @title Quality Control Charts under Repetitive Sampling
+#' @docType package
+#' @description
+#'
+#' The \code{qccrs} package provides functionalities to calculate
+#' Average Sample Numbers (ASN), Average Run Length (ARL1) and 
+#' value of k, k1 and k2 for quality control charts under 
+#' repetitive sampling as given in Aslam et al. (2014).
+#'
+#'
+#' @author
+#' \enumerate{
+#'          \item Muhammad Yaseen (\email{myaseen208@@gmail.com})
+#'          \item Muhammad Aslam (\email{aslam_ravian@@hotmail.com})
+#'          \item Sami Ullah (\email{samiullahuos@@gmail.com})
+#'          \item Muhammad Azam   (\email{mazam@@uvas.edu.pk})
+#'          \item Chi-Hyuck Jun   (\email{chjun@@postech.ac.kr})
+#'          \item Muhammad Kashif (\email{mkashif@@uaf.edu.pk})
+#'          }
+#'
+#' @references
+#' Aslam, M., Azam, M. and Jun, C. (2014).
+#'  New Attributes and Variables Control Charts under Repetitive Sampling.
+#'  \emph{Industrial Engineering & Management Systems}.
+#'  \strong{1}(13):101-106.
+NULL
